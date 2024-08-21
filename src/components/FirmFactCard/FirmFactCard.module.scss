@@ -38,6 +38,7 @@
   &.border {
     &:nth-child(-n + 4) {
       justify-content: center;
+      border: 1px solid transparent;
       &:hover {
         background-color: #07c06a;
         color: #fff;
